@@ -24,11 +24,12 @@
 }
 
 .navbar-brand {
-    display: inline-block;
+	display: inline-block;
     padding-top: .25rem;
     padding-bottom: .25rem;
+    padding-left: 9.25rem;
     margin-right: 1rem;
-    font-size: 1.25rem;
+    font-size: 28px;
     line-height: inherit;
     white-space: nowrap;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
